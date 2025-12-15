@@ -1,0 +1,11 @@
+/* Style-css file for index */
+
+* {
+    background-color: antiquewhite;
+    color:darkgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    text-align: center;
+}
